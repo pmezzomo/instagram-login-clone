@@ -4,6 +4,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Helvetica;
+  }
+
+  body {
     background-color: #FAFAFA;
   }
   
@@ -181,7 +184,8 @@
   
   footer {
     text-align: left;
-    width: 1000px;
+    width: 90%;
+    max-width: 1000px;
     margin: 50px auto;
   }
   
